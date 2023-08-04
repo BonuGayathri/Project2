@@ -8,7 +8,7 @@ This is a web based application developed for  Mobile App related based website 
 **Project Link** - https://gentle-meadow-07d382700.3.azurestaticapps.net
 
 
-**Demo Video** -  
+**Demo Video** -  https://www.veed.io/view/ea97a59e-6f37-4fbe-a01e-810d79983cf6?panel=share
 
 ## Azure Technologies used for Project
 - Static web apps
@@ -35,7 +35,6 @@ This is a web based application developed for  Mobile App related based website 
 
 ### Contact page -
 ![Screenshot 2023-08-04 201405](https://github.com/BonuGayathri/Project2/assets/138792341/55c929b9-1fdf-4c84-8a41-6397db0d6d08)
-
 
 
 ### About Us Page -
